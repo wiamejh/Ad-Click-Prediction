@@ -6,13 +6,9 @@ Developed a machine learning solution to predict ad click rates for digital mark
 In digital advertising, accurately predicting ad performance is crucial for:
 
 Optimizing ad spend allocation
-
 Improving campaign effectiveness
-
 Maximizing return on investment (ROI)
-
 Making data-driven marketing decisions
-
 
 # Technical Implementation
 Data Processing & Feature Engineering
