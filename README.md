@@ -62,15 +62,6 @@ The model enables:
 - Python (pandas, scikit-learn)
 - Data Visualization
 
-# Repository Structure
-├── notebooks/
-│   └── ad_click_prediction.ipynb
-├── data/
-│   └── processed/
-├── models/
-│   └── random_forest_model.pkl
-└── README.md
-
 # Real-time prediction capabilities
 - A/B testing integration
 - Automated reporting system
